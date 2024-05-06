@@ -2,8 +2,7 @@
 
 - memory leak 지점 파악 경험
 - 실제 memory leak이 발생하는 서비스를 해결
-    - 부하테스트를 통한 memory leak
-    - static 변수 vs 객체 내 맴버변수 - 메모리 사용량 비교
+- 부하테스트를 통한 memory leak
 
 사용 tool
 
